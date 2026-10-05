@@ -12,8 +12,9 @@ for(item of ProgrammingLanguage){
     console.log(item);
 }
 
-// Intermediário: Crie um Array contendo 3 Objetos representando Candidatos. Cada objeto deve ter as propriedades: nome e anosExperiencia. Use um loop para percorrer essa lista de candidatos e imprimir um aviso de "Aprovado" apenas para aqueles que tiverem mais de 2 anos de experiência. 
+// Intermediário: Crie um Array contendo 3 Objetos representando Candidatos. Cada objeto deve ter as propriedades: nome e anosExperiencia. Use um loop para percorrer essa lista de candidatos e imprimir um aviso de "Aprovado" apenas para aqueles que tiverem mais de 2 anos de experiência.as 
 
+/*
 const infoJobs = [{
     name: "Patrick",
     experience: 4
@@ -33,6 +34,7 @@ for(const item of infoJobs){
         console.log(`As pessoas que possuem mais de dois anos de experiencia são: ${item.name}, estão aprovados`)
     }
 }
+*/
 
 // Avançado: Faça a mesma lógica do desafio Intermediário, mas não utilize o for ou for...of tradicional. Pesquise e utilize os métodos modernos de Array do JavaScript: use o .filter() para filtrar os candidatos aprovados, e em seguida encadeie um .forEach() ou .map() para imprimi-los.
 
