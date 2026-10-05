@@ -12,7 +12,7 @@ for(item of ProgrammingLanguage){
     console.log(item);
 }
 
-// Intermediário: Crie um Array contendo 3 Objetos representando Candidatos. Cada objeto deve ter as propriedades: nome e anosExperiencia. Use um loop para percorrer essa lista de candidatos e imprimir um aviso de "Aprovado" apenas para aqueles que tiverem mais de 2 anos de experiência. 
+// Intermediário: Crie um Array contendo 3 Objetos representando Candidatos. Cada objeto deve ter as propriedades: nome e anosExperiencia. Use um loop para percorrer essa lista de candidatos e imprimir um aviso de "Aprovado" apenas para aqueles que tiverem mais de 2 anos de experiência.as 
 
 /*
 const infoJobs = [{
